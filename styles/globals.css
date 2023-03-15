@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  Html {
+    @apply bg-gradient-to-b from-[#7e1b66] to-[#581781] min-h-screen 
+  }
+}
